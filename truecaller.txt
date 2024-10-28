@@ -1,11 +1,1 @@
-https://asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com/FUZZ
-https://lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com/FUZZ
-https://www.arubanetworks.com/FUZZ
-https://www.arubainstanton.com/FUZZ
-https://calculators.arubanetworks.com/FUZZ
-https://mspshowcase.arubanetworks.com/FUZZ
-https://ase.arubanetworks.com/FUZZ
-https://blogs.arubanetworks.com/FUZZ
-https://aed.arubanetworks.com/FUZZ
-https://connect.arubanetworks.com/FUZZ
-https://devhub.arubanetworks.comFUZZ
+https://sandbox.affirm.com/FUZZ
